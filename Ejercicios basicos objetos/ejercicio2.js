@@ -1,10 +1,10 @@
 
 const alumno ={
-    nombre: "Pepe",
+    nombre: "Juan",
     materias :{
-        ingles: 6,
-        programacion: 7,
-        HTML: 5,
+        ingles: 9,
+        programacion: 8,
+        HTML: 7,
     }
 }
 
